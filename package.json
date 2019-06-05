@@ -1,0 +1,23 @@
+{
+  "name": "webhook-forwarder",
+  "version": "0.1.0",
+  "description": "A Solace PubSub+ Cloud subscriber to receive webhooks and forward them to an internal system.",
+  "main": "index.js",
+  "dependencies": {
+    "solclientjs": "^10.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retgits/webhook-forwarder.git"
+  },
+  "author": "retgits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retgits/webhook-forwarder/issues"
+  },
+  "homepage": "https://github.com/retgits/webhook-forwarder#readme"
+}
